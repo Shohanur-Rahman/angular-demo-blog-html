@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+.footer-area {
+    background-color: #333;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.carousel-item {
+    max-height: 350px;
+    width: 100%;
+}
+
+.blog-section .col-md-6 {
+    margin-bottom: 30px;
+}
+
+.blog-section a {
+    text-decoration: none;
+    color: #333;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.blog-section a:hover {
+    color: #777;
+}
